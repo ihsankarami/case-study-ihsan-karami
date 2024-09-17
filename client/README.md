@@ -20,7 +20,7 @@ Create a simple table application that allows users to:
 
 2. **Data Storage:**
 
-   - Use a local data structure (e.g., array) to store the table data.
+   - Use the provided JSON server to post/read the data.
 
 3. **User Interface:**
 
@@ -41,13 +41,13 @@ Create a simple table application that allows users to:
 
 1. **Form Create:**
 
-   - Use a pop-up or separate page for the form.
+   - Use a page for the form.
    - Autogenerate the NIP using the format: `AQI-[joinDate (ddmmyyyy)]-[auto-increment]`.
      - Example: `AQI-13112024-001`, `AQI-03012025-002`.
 
 2. **Form Update:**
 
-   - Use a pop-up or separate page with auto-populated data.
+   - Use a page with auto-populated data.
    - Disable the NIP and Join Date fields.
 
 3. **Detail Page:**

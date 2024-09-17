@@ -1,5 +1,7 @@
 # Take-Home Test: Kintone Developer
 
+_Right click on the md file and select open preview in vscode to read this md_
+
 # Front End Test
 
 ## Objective:
@@ -28,8 +30,8 @@ Create a simple table application that allows users to:
 
 ## Submission:
 
-- **Code Repository**: Create a public GitHub repository and send the link to the repository to EMAILTHISEMAILTHISEMAILTHIS.
-- **Documentation**: Include a README file explaining how to run your application and any specific instructions.
+- Create a public GitHub repository with format "case-study-[nama-anda]"
+- Send the link to the repository via email to bella@aqi.co.id and cc to aulya.khatulistivani@aqi.co.id, taufiqurahman.alghani@aqi.co.id & muhamad.rifaldi@aqi.co.id with title [Nama-anda]-Kintone-AQI
 
 ## Evaluation Criteria:
 
@@ -84,13 +86,13 @@ Create a simple table application that allows users to:
 
 ### Form Create:
 
-- Displayed either in a pop-up or a separate page.
+- Displayed in separate page.
 - **Autogenerate** NIP: Format should be `AQI-[joinDate (ddmmyyyy)]-[auto-increment]`
   - Example: `AQI-13112024-001`, `AQI-03012025-002`
 
 ### Form Update:
 
-- Displayed either in a pop-up or a separate page with auto-populated data.
+- Displayed in a separate page with auto-populated data.
 - Disable the **NIP** field and **Join Date** field (non-editable).
 
 ### Detail Page:
@@ -107,4 +109,4 @@ Create a simple table application that allows users to:
   - Filter section to filter the data.
   - Action buttons to update/delete rows.
 
----
+## GoodLuck! 🍀
