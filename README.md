@@ -66,15 +66,15 @@ Create a simple table application that allows users to:
 {
   "employees": [
     {
-      "Nip": "12345",
-      "First name": "Budi",
-      "Last name": "Buda",
-      "Address": "Jalan Wahid hasyim no 8",
-      "Position": "Javascript Developer",
-      "Salary": "11.000.000",
-      "Division": "Kintone",
-      "Birthdate": "03/12/1997",
-      "Join Date": "13/11/2024"
+      "nip": "AQI-1212023-001",
+      "firstName": "Budi",
+      "lastName": "Newgate",
+      "address": "Jalan Wahid hasyim no 8",
+      "position": "Javascript Developer",
+      "salary": 7000000,
+      "division": "Kintone",
+      "birthDate": "03-12-1997",
+      "joinDate": "13-11-2024"
     }
   ]
 }
