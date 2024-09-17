@@ -1,5 +1,7 @@
 # Take-Home Test: Kintone Developer
 
+# Front End Test
+
 ## Objective:
 
 To assess your ability to develop a basic CRUD (Create, Read, Update, Delete) application using a JavaScript framework or vanilla JavaScript. While we're looking for Kintone developers, this test will evaluate your foundational skills in web development.
@@ -26,8 +28,7 @@ Create a simple table application that allows users to:
 
 ## Submission:
 
-- **Code Repository**: Create a public GitHub repository and push your code there.
-- **Demo**: If possible, provide a link to a live demo of your application (deploy using GitHub).
+- **Code Repository**: Create a public GitHub repository and send the link to the repository to EMAILTHISEMAILTHISEMAILTHIS.
 - **Documentation**: Include a README file explaining how to run your application and any specific instructions.
 
 ## Evaluation Criteria:
@@ -44,18 +45,18 @@ Create a simple table application that allows users to:
 
 ### Table Structure (Employee):
 
-| Field Name     | Description                           | Type   |
-| -------------- | ------------------------------------- | ------ |
-| NIP            | Nomer Induk Pegawai – id, primary key | String |
-| First name     | Employee first name                   | String |
-| Last name      | Employee last name                    | String |
-| Address        | Employee address                      | String |
-| Position       | Employee position                     | String |
-| Salary         | Employee salary                       | String |
-| Division       | Employee division                     | String |
-| Working Status | Employee working status               | String |
-| Birthday       | Employee birthday                     | Date   |
-| Join Date      | Employee join date                    | Date   |
+| Field Name     | Description                           | Type    |
+| -------------- | ------------------------------------- | ------- |
+| NIP            | Nomer Induk Pegawai – id, primary key | String  |
+| First name     | Employee first name                   | String  |
+| Last name      | Employee last name                    | String  |
+| Address        | Employee address                      | String  |
+| Position       | Employee position                     | String  |
+| Salary         | Employee salary                       | Integer |
+| Division       | Employee division                     | String  |
+| Working Status | Employee working status               | String  |
+| Birthday       | Employee birthday                     | Date    |
+| Join Date      | Employee join date                    | Date    |
 
 ### JSON Example:
 
@@ -101,8 +102,28 @@ Create a simple table application that allows users to:
 ### Index Page:
 
 - **Features**:
+
   - Table displaying data from the API (read).
   - Filter section to filter the data.
   - Action buttons to update/delete rows.
+
+  ***
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# Logic Test
+
+### Task:
+
+Inside the repository, there is a folder named `logic-test`. Open the folder and solve the logic problem(s) provided.
+
+### Instructions:
+
+- Write your solutions in the provided file(s) and ensure that they are functional.
+- Include comments where necessary to explain your approach.
 
 ---
